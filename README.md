@@ -12,3 +12,5 @@ If you want to support my work:</br>
 
 
 </br>Social: [![Instagram](https://img.shields.io/badge/Instagram-Developer%20journey-blueviolet?logo=Instagram&logoColor=blueviolet&labelColor=black)](https://www.instagram.com/uigitdev/) [![Twitter](https://img.shields.io/badge/Twitter-Let%27s%20tweet%20each%20other-blue?logo=Twitter&logoColor=blue&labelColor=black)](https://twitter.com/uigitdev) [![YouTube](https://img.shields.io/badge/YouTube-Watch%20my%20videos-red?logo=YouTube&logoColor=red&labelColor=black)](https://www.youtube.com/channel/UCJs4WLc8_jk5DhIwMAwoVuw)
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=uigitdev) 
